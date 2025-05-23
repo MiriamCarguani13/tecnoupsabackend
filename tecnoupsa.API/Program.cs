@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using TecnoupsaBackend.Data;
 using TecnoupsaBackend.Middleware;
 using TecnoupsaBackend.Services;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 

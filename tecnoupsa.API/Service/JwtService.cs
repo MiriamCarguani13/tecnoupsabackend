@@ -2,6 +2,7 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using TecnoupsaBackend.Models;
 
 namespace TecnoupsaBackend.Services;
 
